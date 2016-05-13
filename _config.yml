@@ -1,8 +1,8 @@
 excerpt_separator: ""
-pygments: true
+highlighter: rouge
 markdown: kramdown
 url: http://postgod.github.io
 title: Post-God
-tagline: A log of everyday life
-description: My awesome new site
+tagline: Thoughts on life after deconversion
+description: Post-God is a chronicle of my thoughts on life after religion
 paginate: 5
