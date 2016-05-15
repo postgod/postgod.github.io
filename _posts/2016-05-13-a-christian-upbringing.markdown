@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: A Christian Upbringing
 layout: post
 tags: [background, religion]
